@@ -36,7 +36,7 @@ image:
 
 ## String to fully override wordpress.fullname template
 ##
-# fullnameOverride:
+fullnameOverride: wordpress-local
 
 ## User of the application
 ## ref: https://github.com/bitnami/bitnami-docker-wordpress#environment-variables
